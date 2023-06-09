@@ -1541,3 +1541,108 @@ Initialized by user-defined `init_weights` in RTMDetSepBNHead
 2023/06/09 18:03:07 - mmengine - INFO - Epoch(val) [60][13/13]    coco/bbox_mAP: 0.7190  coco/bbox_mAP_50: 0.8300  coco/bbox_mAP_75: 0.7950  coco/bbox_mAP_s: 0.0000  coco/bbox_mAP_m: 0.3540  coco/bbox_mAP_l: 0.8520  data_time: 0.0046  time: 0.3732
 2023/06/09 18:03:38 - mmengine - INFO - Epoch(train)  [61][5/6]  lr: 1.6824e-04  eta: 0:53:14  time: 5.3051  data_time: 0.2284  loss: 0.5995  loss_cls: 0.3731  loss_bbox: 0.2264
 2023/06/09 18:03:39 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:04:09 - mmengine - INFO - Epoch(train)  [62][5/6]  lr: 1.6462e-04  eta: 0:51:21  time: 5.2840  data_time: 0.2284  loss: 0.5908  loss_cls: 0.3656  loss_bbox: 0.2252
+2023/06/09 18:04:10 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:04:41 - mmengine - INFO - Epoch(train)  [63][5/6]  lr: 1.6075e-04  eta: 0:49:31  time: 5.2884  data_time: 0.2315  loss: 0.6214  loss_cls: 0.3880  loss_bbox: 0.2334
+2023/06/09 18:04:41 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:05:13 - mmengine - INFO - Epoch(train)  [64][5/6]  lr: 1.5663e-04  eta: 0:47:44  time: 5.3171  data_time: 0.2327  loss: 0.6314  loss_cls: 0.3991  loss_bbox: 0.2323
+2023/06/09 18:05:14 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:05:46 - mmengine - INFO - Epoch(train)  [65][5/6]  lr: 1.5228e-04  eta: 0:46:00  time: 5.3308  data_time: 0.2307  loss: 0.6254  loss_cls: 0.3928  loss_bbox: 0.2326
+2023/06/09 18:05:47 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:06:18 - mmengine - INFO - Epoch(train)  [66][5/6]  lr: 1.4772e-04  eta: 0:44:17  time: 5.3155  data_time: 0.2271  loss: 0.6392  loss_cls: 0.4011  loss_bbox: 0.2381
+2023/06/09 18:06:18 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:06:52 - mmengine - INFO - Epoch(train)  [67][5/6]  lr: 1.4297e-04  eta: 0:42:38  time: 5.3562  data_time: 0.2218  loss: 0.6372  loss_cls: 0.4012  loss_bbox: 0.2360
+2023/06/09 18:06:53 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:07:24 - mmengine - INFO - Epoch(train)  [68][5/6]  lr: 1.3804e-04  eta: 0:40:59  time: 5.3798  data_time: 0.2225  loss: 0.6329  loss_cls: 0.3965  loss_bbox: 0.2365
+2023/06/09 18:07:25 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:07:56 - mmengine - INFO - Epoch(train)  [69][5/6]  lr: 1.3295e-04  eta: 0:39:23  time: 5.4035  data_time: 0.2232  loss: 0.6444  loss_cls: 0.4030  loss_bbox: 0.2414
+2023/06/09 18:07:57 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:08:28 - mmengine - INFO - Epoch(train)  [70][5/6]  lr: 1.2773e-04  eta: 0:37:48  time: 5.4102  data_time: 0.2269  loss: 0.6466  loss_cls: 0.4026  loss_bbox: 0.2440
+2023/06/09 18:08:29 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:08:29 - mmengine - INFO - Saving checkpoint at 70 epochs
+2023/06/09 18:08:32 - mmengine - INFO - Epoch(val)  [70][ 5/13]    eta: 0:00:03  time: 0.3708  data_time: 0.0050  
+2023/06/09 18:08:34 - mmengine - INFO - Epoch(val)  [70][10/13]    eta: 0:00:01  time: 0.3720  data_time: 0.0050  
+2023/06/09 18:08:36 - mmengine - INFO - Evaluating bbox...
+2023/06/09 18:08:36 - mmengine - INFO - bbox_mAP_copypaste: 0.722 0.823 0.812 0.000 0.419 0.840
+2023/06/09 18:08:36 - mmengine - INFO - Epoch(val) [70][13/13]    coco/bbox_mAP: 0.7220  coco/bbox_mAP_50: 0.8230  coco/bbox_mAP_75: 0.8120  coco/bbox_mAP_s: 0.0000  coco/bbox_mAP_m: 0.4190  coco/bbox_mAP_l: 0.8400  data_time: 0.0044  time: 0.3794
+2023/06/09 18:09:07 - mmengine - INFO - Epoch(train)  [71][5/6]  lr: 1.2239e-04  eta: 0:36:15  time: 5.4250  data_time: 0.2313  loss: 0.6223  loss_cls: 0.3859  loss_bbox: 0.2363
+2023/06/09 18:09:08 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:09:39 - mmengine - INFO - Epoch(train)  [72][5/6]  lr: 1.1695e-04  eta: 0:34:44  time: 5.4379  data_time: 0.2397  loss: 0.6197  loss_cls: 0.3806  loss_bbox: 0.2391
+2023/06/09 18:09:40 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:10:11 - mmengine - INFO - Epoch(train)  [73][5/6]  lr: 1.1145e-04  eta: 0:33:14  time: 5.4141  data_time: 0.2376  loss: 0.6142  loss_cls: 0.3714  loss_bbox: 0.2428
+2023/06/09 18:10:12 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:10:43 - mmengine - INFO - Epoch(train)  [74][5/6]  lr: 1.0589e-04  eta: 0:31:46  time: 5.4144  data_time: 0.2372  loss: 0.6045  loss_cls: 0.3662  loss_bbox: 0.2383
+2023/06/09 18:10:44 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:11:16 - mmengine - INFO - Epoch(train)  [75][5/6]  lr: 1.0030e-04  eta: 0:30:20  time: 5.4122  data_time: 0.2408  loss: 0.5998  loss_cls: 0.3626  loss_bbox: 0.2372
+2023/06/09 18:11:16 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:11:47 - mmengine - INFO - Epoch(train)  [76][5/6]  lr: 9.4708e-05  eta: 0:28:54  time: 5.3652  data_time: 0.2442  loss: 0.6083  loss_cls: 0.3706  loss_bbox: 0.2378
+2023/06/09 18:11:48 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:12:19 - mmengine - INFO - Epoch(train)  [77][5/6]  lr: 8.9128e-05  eta: 0:27:30  time: 5.3541  data_time: 0.2413  loss: 0.5986  loss_cls: 0.3654  loss_bbox: 0.2332
+2023/06/09 18:12:20 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:12:51 - mmengine - INFO - Epoch(train)  [78][5/6]  lr: 8.3585e-05  eta: 0:26:08  time: 5.3492  data_time: 0.2395  loss: 0.5897  loss_cls: 0.3620  loss_bbox: 0.2277
+2023/06/09 18:12:51 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:13:23 - mmengine - INFO - Epoch(train)  [79][5/6]  lr: 7.8100e-05  eta: 0:24:47  time: 5.3585  data_time: 0.2380  loss: 0.5850  loss_cls: 0.3590  loss_bbox: 0.2260
+2023/06/09 18:13:24 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:13:55 - mmengine - INFO - Epoch(train)  [80][5/6]  lr: 7.2696e-05  eta: 0:23:27  time: 5.3500  data_time: 0.2317  loss: 0.6251  loss_cls: 0.3944  loss_bbox: 0.2307
+2023/06/09 18:13:56 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:13:56 - mmengine - INFO - Saving checkpoint at 80 epochs
+2023/06/09 18:13:59 - mmengine - INFO - Epoch(val)  [80][ 5/13]    eta: 0:00:03  time: 0.3737  data_time: 0.0048  
+2023/06/09 18:14:01 - mmengine - INFO - Epoch(val)  [80][10/13]    eta: 0:00:01  time: 0.3741  data_time: 0.0048  
+2023/06/09 18:14:02 - mmengine - INFO - Evaluating bbox...
+2023/06/09 18:14:03 - mmengine - INFO - bbox_mAP_copypaste: 0.737 0.843 0.836 0.000 0.444 0.854
+2023/06/09 18:14:03 - mmengine - INFO - Epoch(val) [80][13/13]    coco/bbox_mAP: 0.7370  coco/bbox_mAP_50: 0.8430  coco/bbox_mAP_75: 0.8360  coco/bbox_mAP_s: 0.0000  coco/bbox_mAP_m: 0.4440  coco/bbox_mAP_l: 0.8540  data_time: 0.0042  time: 0.3854
+2023/06/09 18:14:03 - mmengine - INFO - The previous best checkpoint D:\Github\mmdetection\work_dirs\ballon\best_coco_bbox_mAP_epoch_50.pth is removed
+2023/06/09 18:14:04 - mmengine - INFO - The best checkpoint with 0.7370 coco/bbox_mAP at 80 epoch is saved to best_coco_bbox_mAP_epoch_80.pth.
+2023/06/09 18:14:35 - mmengine - INFO - Epoch(train)  [81][5/6]  lr: 6.7393e-05  eta: 0:22:08  time: 5.3561  data_time: 0.2282  loss: 0.6193  loss_cls: 0.3930  loss_bbox: 0.2263
+2023/06/09 18:14:36 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:15:07 - mmengine - INFO - Epoch(train)  [82][5/6]  lr: 6.2213e-05  eta: 0:20:50  time: 5.3531  data_time: 0.2324  loss: 0.6129  loss_cls: 0.3863  loss_bbox: 0.2265
+2023/06/09 18:15:08 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:15:39 - mmengine - INFO - Epoch(train)  [83][5/6]  lr: 5.7175e-05  eta: 0:19:34  time: 5.3328  data_time: 0.2328  loss: 0.6125  loss_cls: 0.3893  loss_bbox: 0.2232
+2023/06/09 18:15:39 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:16:10 - mmengine - INFO - Epoch(train)  [84][5/6]  lr: 5.2301e-05  eta: 0:18:18  time: 5.3243  data_time: 0.2273  loss: 0.5926  loss_cls: 0.3755  loss_bbox: 0.2171
+2023/06/09 18:16:11 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:16:42 - mmengine - INFO - Epoch(train)  [85][5/6]  lr: 4.7608e-05  eta: 0:17:04  time: 5.3198  data_time: 0.2243  loss: 0.5786  loss_cls: 0.3668  loss_bbox: 0.2118
+2023/06/09 18:16:42 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:17:13 - mmengine - INFO - Epoch(train)  [86][5/6]  lr: 4.3117e-05  eta: 0:15:50  time: 5.3037  data_time: 0.2244  loss: 0.5897  loss_cls: 0.3728  loss_bbox: 0.2169
+2023/06/09 18:17:13 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:17:44 - mmengine - INFO - Epoch(train)  [87][5/6]  lr: 3.8843e-05  eta: 0:14:38  time: 5.2999  data_time: 0.2309  loss: 0.5914  loss_cls: 0.3712  loss_bbox: 0.2202
+2023/06/09 18:17:45 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:18:16 - mmengine - INFO - Epoch(train)  [88][5/6]  lr: 3.4805e-05  eta: 0:13:26  time: 5.2879  data_time: 0.2278  loss: 0.5680  loss_cls: 0.3503  loss_bbox: 0.2178
+2023/06/09 18:18:16 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:18:48 - mmengine - INFO - Epoch(train)  [89][5/6]  lr: 3.1018e-05  eta: 0:12:16  time: 5.2871  data_time: 0.2348  loss: 0.5563  loss_cls: 0.3436  loss_bbox: 0.2127
+2023/06/09 18:18:48 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:19:20 - mmengine - INFO - Epoch(train)  [90][5/6]  lr: 2.7497e-05  eta: 0:11:06  time: 5.2940  data_time: 0.2361  loss: 0.5484  loss_cls: 0.3409  loss_bbox: 0.2075
+2023/06/09 18:19:20 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:19:20 - mmengine - INFO - Saving checkpoint at 90 epochs
+2023/06/09 18:19:24 - mmengine - INFO - Epoch(val)  [90][ 5/13]    eta: 0:00:03  time: 0.3782  data_time: 0.0050  
+2023/06/09 18:19:26 - mmengine - INFO - Epoch(val)  [90][10/13]    eta: 0:00:01  time: 0.3800  data_time: 0.0050  
+2023/06/09 18:19:27 - mmengine - INFO - Evaluating bbox...
+2023/06/09 18:19:27 - mmengine - INFO - bbox_mAP_copypaste: 0.732 0.837 0.828 0.000 0.438 0.851
+2023/06/09 18:19:27 - mmengine - INFO - Epoch(val) [90][13/13]    coco/bbox_mAP: 0.7320  coco/bbox_mAP_50: 0.8370  coco/bbox_mAP_75: 0.8280  coco/bbox_mAP_s: 0.0000  coco/bbox_mAP_m: 0.4380  coco/bbox_mAP_l: 0.8510  data_time: 0.0049  time: 0.3749
+2023/06/09 18:19:57 - mmengine - INFO - Epoch(train)  [91][5/6]  lr: 2.4255e-05  eta: 0:09:57  time: 5.2757  data_time: 0.2333  loss: 0.5502  loss_cls: 0.3392  loss_bbox: 0.2110
+2023/06/09 18:19:58 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:20:29 - mmengine - INFO - Epoch(train)  [92][5/6]  lr: 2.1307e-05  eta: 0:08:49  time: 5.2785  data_time: 0.2378  loss: 0.5532  loss_cls: 0.3412  loss_bbox: 0.2120
+2023/06/09 18:20:30 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:21:00 - mmengine - INFO - Epoch(train)  [93][5/6]  lr: 1.8663e-05  eta: 0:07:41  time: 5.2761  data_time: 0.2387  loss: 0.5616  loss_cls: 0.3451  loss_bbox: 0.2165
+2023/06/09 18:21:01 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:21:32 - mmengine - INFO - Epoch(train)  [94][5/6]  lr: 1.6334e-05  eta: 0:06:35  time: 5.2865  data_time: 0.2361  loss: 0.5615  loss_cls: 0.3486  loss_bbox: 0.2129
+2023/06/09 18:21:33 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:22:04 - mmengine - INFO - Epoch(train)  [95][5/6]  lr: 1.4329e-05  eta: 0:05:29  time: 5.2996  data_time: 0.2330  loss: 0.5720  loss_cls: 0.3558  loss_bbox: 0.2162
+2023/06/09 18:22:05 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:22:05 - mmengine - INFO - Switch pipeline now!
+2023/06/09 18:22:49 - mmengine - INFO - Epoch(train)  [96][5/6]  lr: 1.2656e-05  eta: 0:04:24  time: 5.5736  data_time: 0.5031  loss: 0.5368  loss_cls: 0.3300  loss_bbox: 0.2068
+2023/06/09 18:22:50 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:23:21 - mmengine - INFO - Epoch(train)  [97][5/6]  lr: 1.1321e-05  eta: 0:03:20  time: 5.5814  data_time: 0.4858  loss: 0.5224  loss_cls: 0.3245  loss_bbox: 0.1978
+2023/06/09 18:23:22 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:23:53 - mmengine - INFO - Epoch(train)  [98][5/6]  lr: 1.0330e-05  eta: 0:02:16  time: 5.5628  data_time: 0.4701  loss: 0.5351  loss_cls: 0.3398  loss_bbox: 0.1953
+2023/06/09 18:23:54 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:24:25 - mmengine - INFO - Epoch(train)  [99][5/6]  lr: 9.6874e-06  eta: 0:01:13  time: 5.5759  data_time: 0.4584  loss: 0.5150  loss_cls: 0.3295  loss_bbox: 0.1854
+2023/06/09 18:24:25 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:24:56 - mmengine - INFO - Epoch(train) [100][5/6]  lr: 9.3945e-06  eta: 0:00:10  time: 5.5790  data_time: 0.4410  loss: 0.4955  loss_cls: 0.3170  loss_bbox: 0.1785
+2023/06/09 18:24:57 - mmengine - INFO - Exp name: ballon_20230609_163957
+2023/06/09 18:24:57 - mmengine - INFO - Saving checkpoint at 100 epochs
+2023/06/09 18:25:01 - mmengine - INFO - Epoch(val) [100][ 5/13]    eta: 0:00:03  time: 0.3878  data_time: 0.0055  
+2023/06/09 18:25:03 - mmengine - INFO - Epoch(val) [100][10/13]    eta: 0:00:01  time: 0.3878  data_time: 0.0054  
+2023/06/09 18:25:04 - mmengine - INFO - Evaluating bbox...
+2023/06/09 18:25:04 - mmengine - INFO - bbox_mAP_copypaste: 0.722 0.845 0.813 0.000 0.431 0.843
+2023/06/09 18:25:04 - mmengine - INFO - Epoch(val) [100][13/13]    coco/bbox_mAP: 0.7220  coco/bbox_mAP_50: 0.8450  coco/bbox_mAP_75: 0.8130  coco/bbox_mAP_s: 0.0000  coco/bbox_mAP_m: 0.4310  coco/bbox_mAP_l: 0.8430  data_time: 0.0064  time: 0.4055
